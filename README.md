@@ -34,3 +34,5 @@ Clone o repositório e abra o arquivo `index.html` no navegador.
 ```bash
 git clone https://github.com/FLAfonsso/instagram-login-clone.git
 cd instagram-login-clone
+
+Desenvolvido por Pedro Afonso.
